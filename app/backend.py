@@ -114,7 +114,7 @@ class State(TypedDict):
 # -----------------------------
 # 2) LLM
 # -----------------------------
-llm = ChatGoogleGenerativeAI(model="gemini-3.1-flash-lite-preview")
+llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
 
 
 # -----------------------------
