@@ -58,10 +58,11 @@ git clone https://github.com/Engr-Mujeeb-Rahman/blog-writing-agent.git
 cd blog-writing-agent
 
 pip install -r requirements.txt
+```
 
 🔑 Setup Environment Variables
 
-```
+```bash
 Create .env file:
 GOOGLE_API_KEY=your_key
 TAVILY_API_KEY=your_key
@@ -70,16 +71,16 @@ HUGGINGFACEHUB_API_TOKEN=your_token
 
 ▶️ Run the App
 
-```
+```bash
 streamlit run app/frontend.py
 ```
 
 📂 Project Structure
 
-```
+```bash
 app/
- ├── frontend.py     # Streamlit UI
- ├── backend.py      # LangGraph logic
+ ├── frontend.py     # Streamlit UI <br>
+ ├── backend.py      # LangGraph logic <br>
 ```
 
 
