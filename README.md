@@ -79,8 +79,8 @@ streamlit run app/frontend.py
 
 ```bash
 app/
- ├── frontend.py     # Streamlit UI <br>
- ├── backend.py      # LangGraph logic <br>
+ ├── frontend.py     # Streamlit UI
+ ├── backend.py      # LangGraph logic
 ```
 
 
@@ -128,6 +128,7 @@ Multi-language support
 
 
 👤 Author
-
+```bash
 Engr. M Mujeeb Ur Rahman
 AI Engineer
+```
