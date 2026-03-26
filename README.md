@@ -62,8 +62,8 @@ pip install -r requirements.txt
 
 🔑 Setup Environment Variables
 
-```bash
 Create .env file:
+```bash
 GOOGLE_API_KEY=your_key
 TAVILY_API_KEY=your_key
 HUGGINGFACEHUB_API_TOKEN=your_token
@@ -113,14 +113,12 @@ Markdown blog
 Image assets
 Downloadable ZIP bundle
 
----
 
 ⚠️ Limitations
 Image generation depends on API reliability
 Tavily required for real-time research
 May hallucinate if no evidence is provided
 
----
 
 🚀 Future Improvements
 Add SEO optimization
@@ -128,7 +126,6 @@ Add blog publishing (Medium/WordPress)
 Add RAG-based personalization
 Multi-language support
 
----
 
 👤 Author
 
