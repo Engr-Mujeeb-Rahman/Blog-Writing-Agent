@@ -2,7 +2,7 @@
 
 An advanced **AI-powered blog generation system** built using **LangGraph, LLMs, and Streamlit**.
 
-This agent doesn't just write blogs — it **plans, researches, generates, and enhances content with images automatically**.
+This agent doesn't just write blogs, it **plans, researches, generates, and enhances content with images automatically**.
 
 ---
 
@@ -126,6 +126,7 @@ Add blog publishing (Medium/WordPress)
 Add RAG-based personalization
 Multi-language support
 
+---
 
 👤 Author
 ```bash
